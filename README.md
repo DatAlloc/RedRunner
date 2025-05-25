@@ -4,8 +4,8 @@ Red Runner, Awesome Platformer Game.
 
 It is now free and open source and always will be. :clap: :tada:
 
-| [:sparkles: Getting Started](#getting-started) | [:rocket: Download](#download) | [:camera: Screenshots](#screenshots) |
-| --------------- | -------- | ----------- |
+| [:balloon: DatAlloc PoC](#datalloc-poc)| [:sparkles: Getting Started](#getting-started) | [:rocket: Download](#download) | [:camera: Screenshots](#screenshots) |
+| ------------ | --------------- | -------- | ----------- |
 
 <p align="center">
   <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzcyNzg3Mi5wbmc=/original/AU5pWY.png" />
@@ -14,6 +14,10 @@ It is now free and open source and always will be. :clap: :tada:
 [:camera: See Screenshots](#screenshots)
 
 [:movie_camera: **See the Trailer**](https://youtu.be/MO2yJhgtMes)
+
+## DatAlloc PoC
+
+Read the DatAlloc [release notes](POC.md).
 
 ## Getting Started
 
