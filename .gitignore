@@ -32,3 +32,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+Red Runner_Data/*
+Mono/*
+*.exe
+*.dll
