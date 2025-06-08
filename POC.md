@@ -22,6 +22,24 @@ Launch the Unity studio and follow these steps:
 - In the `File -> Build Settings`, select the target Platform.
 - Build the package using `File -> Build`.
 
+## Config
+
+By default, the game tries to connect to a Noded instance running at 127.0.0.1:9123. This can be changed by specifying different values in the configuration file.
+
+In Windows, this file is located here:
+```bash
+C:\Users\%USERNAME%\AppData\LocalLow\Bayat Games\Red Runner\noded.config
+```
+
+for other platforms see [Application Persistent Data Path](https://docs.unity3d.com/6000.1/Documentation/ScriptReference/Application-persistentDataPath.html)
+
+The `noded.config` file format is INI. It supports only one `default` section and these two parameters:
+```bash
+[default]
+ipaddr = 192.168.1.0
+port = 12345
+```
+
 ## License
 
 MIT @ [Bayat Games](https://github.com/BayatGames)
